@@ -1,0 +1,77 @@
+.clear-btn {
+    display: flex;
+    flex: 1;
+    height: 4em;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.4 rem;
+    background: transparent;
+    border: 0.08rem solid #009ffd;
+    border-color: #009ffd;
+    color: #009ffd;
+    height: 5em;
+    border-radius: 0.5rem;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    margin: 1.8rem 0.7rem 0 0.5rem;
+}
+
+.submit-btn {
+    display: flex;
+    flex: 1;
+    height: 4em;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.4 rem;
+    background: transparent;
+    border: 0.08rem solid #ffa400;
+    border-color: #ffa400;
+    color: #ffa400;
+    height: 5em;
+    border-radius: 0.5rem;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    margin: 1.8rem 0.6rem 0 0.5rem;
+}
+
+._hover:hover {
+    background: #009ffd;
+    color: #2a2a72;
+}
+
+._hover:focus {
+    outline: none;
+}
+
+.sub_hover:hover {
+    background: #ffa400;
+    color: #2a2a72;
+}
+
+.sub_hover:focus {
+    outline: none;
+}
+
+.eq-btn {
+    display: flex;
+    flex: 1;
+    height: 4em;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.4 rem;
+    background: red;
+    border: 0.08rem solid #ffa400;
+    border-color: #ffa400;
+    color: #ffa400;
+    height: 5em;
+    border-radius: 0.5rem;
+    padding: 0.2rem 0.5rem;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    margin: 1.8rem 0.6rem 0 0.5rem;
+}

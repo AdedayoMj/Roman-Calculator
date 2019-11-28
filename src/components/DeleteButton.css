@@ -1,0 +1,12 @@
+.btn_btn {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: grey;
+    color: #009ffd;
+    outline: 1px solid #009ffd;
+}
